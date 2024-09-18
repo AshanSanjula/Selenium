@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class QATest {
+public class HomePage {
     public static final String GreenTXT = "\u001B[32m";
     public static final String ResetTXT = "\u001B[0m";
 
